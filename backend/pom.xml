@@ -20,7 +20,7 @@
 
 		<!-- SonarCloud: reemplazar por los valores reales de su proyecto -->
 		<sonar.organization>palurobu0809</sonar.organization>
-		<sonar.projectKey>TU_PROJECT_KEY</sonar.projectKey>
+		<sonar.projectKey>PaLuRoBu0809_lab1-banco</sonar.projectKey>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
